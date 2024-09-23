@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkccl_docs=self.webpackChunkccl_docs||[]).push([[634],{192:(t,c,e)=>{e.r(c),e.d(c,{default:()=>r});e(6540);var i=e(6347),n=e(4586),s=e(781),o=e(4848);function r(){const{siteConfig:t}=(0,n.A)();return(0,o.jsx)(s.A,{title:`${t.title}`,description:"Documentation for ChitChatLabs",children:(0,o.jsx)(i.rd,{to:"/introduction"})})}}}]);
